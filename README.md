@@ -26,3 +26,5 @@ import { GoogleIcon } from "@fy-/icons";
  - TiktokIcon
  - VkIcon
  - YoutubeIcon
+ - NobemIcon
+ - GithubIcon
