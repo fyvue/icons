@@ -1,5 +1,5 @@
 # @fy-/icons
-Social &amp; custom SVG icons for vue.
+Social &amp; custom SVG icons for vue (optimized one path svg icons)
 ```
   pnpm add @fy-/icons
 ```
