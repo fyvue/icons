@@ -1,16 +1,16 @@
 {
     "name": "@fy-/icons",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Florian 'Fy' Gasquez <m@fy.to>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fyvue/ui.git"
+        "url": "git+https://github.com/fyvue/icons.git"
     },
     "bugs": {
-        "url": "https://github.com/fyvue/ui/issues"
+        "url": "https://github.com/fyvue/icons/issues"
     },
-    "homepage": "https://github.com/fyvue/ui#readme",
+    "homepage": "https://github.com/fyvue/icons#readme",
     "main": "dist/fyicons.cjs.js",
     "module": "dist/fyicons.es.js",
     "typings": "dist/index.d.ts",
